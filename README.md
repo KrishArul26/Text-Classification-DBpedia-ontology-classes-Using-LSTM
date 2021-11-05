@@ -56,7 +56,7 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
 <h3 align="left"> Project Directory</h3>
 
 
-<h3 align="left"> Below pictures illustrate the complete folder structure of this project.</h3>
+<h4 align="left"> Below pictures illustrate the complete folder structure of this project.</h4>
 
 
 <p align="center">
@@ -65,7 +65,7 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
 
 
 
-This file is used for data processing. It will create train_preprocessed. pickle validation_preprocessed. pickle and test_preprocessed. pickle files under data folder.
+<h4 align="left">This file is used for data processing. It will create train_preprocessed. pickle validation_preprocessed. pickle and test_preprocessed. pickle files under data folder.</h4>
 
 
 
