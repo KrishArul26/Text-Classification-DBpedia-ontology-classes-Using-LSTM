@@ -89,12 +89,12 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
   <img width="400" src="https://user-images.githubusercontent.com/74568334/140579999-d0ae2ac4-74bc-460d-82eb-3ee7cbb40a73.png">
 </p> 
 
-<h3 align="left">4. rnn_w2v.py </h3>
+<h3 align="left">5. main.py </h3>
 
-<p style= 'text-align: justify;'>Below picture illustrate the rnn_w2v.py, After done with creating Word2vec for each word then those vectors will use as input for creating the LSTM model and Train the LSTM (RNN) model with body and Classes.</p>
+<p style= 'text-align: justify; Below picture illustrate the main.py, After evaluating the LSTM model, This files will create the Rest -IP, To that It will use FLASK frameworks and get the request from the customer or client then It will Post into the prediction files and Answer will be deliver over the web browser. .</p>
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/140579999-d0ae2ac4-74bc-460d-82eb-3ee7cbb40a73.png">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140581040-86b02b9a-fb8c-4f10-9ebf-03e05573f7a6.png">
 </p> 
 
 
