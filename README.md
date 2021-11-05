@@ -53,19 +53,25 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
 <h4 align="left"> In this section, contains the project directory, explanation of each python file presents in the directory.  </h2>
 
 
-<h3 align="left"> Project Directory</h3>
+<h3 align="left">1. Project Directory</h3>
 
 
-<h4 align="left"> Below pictures illustrate the complete folder structure of this project.</h4>
+<h4 align="left"> Below picture illustrate the complete folder structure of this project.</h4>
 
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/140574832-f6b9094d-1ce4-4651-8fe1-753d6785c29f.png">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140577934-92f60e0d-c905-478e-be62-638bd6a7ad82.png">
 </p> 
 
 
+<h3 align="left">2. preprocess.py </h3>
 
-<h4 align="left">This file is used for data processing. It will create train_preprocessed. pickle validation_preprocessed. pickle and test_preprocessed. pickle files under data folder.</h4>
+<p style= 'text-align: justify;'> Below picture illustrate the preprocess.py file,  does the necessary text cleaning process such as removing punctuation, numbers, lemmatization. And it will create train_preprocessed, validation_preprocessed and test_preprocessed pickle files for the further analysis.</p>
+
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140578710-2b346932-32c8-4f60-b9bf-b79fbb4fbf10.png">
+</p> 
+
 
 
 
