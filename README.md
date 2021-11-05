@@ -3,7 +3,7 @@
 
 <h2 align="center">  Text-Classification-Using-LSTM</h2>
 
-<h3 align="left">Hierarchical Taxonomy of Wikipedia article classes Classification-Using-LSTM </h3>
+<h3 align="left"> Ontology  Classification-Using-LSTM </h3>
 
  <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/74568334/140572521-72125b9d-69c1-442e-9b74-ef60ce6a8b2e.png">
