@@ -101,13 +101,20 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
 
 
 <h3 align="left">6. main.py </h3>
-<p style= 'text-align: justify;'> Below picture illustrate the main.py, After evaluating the LSTM model, This files will create the Rest -IP, To that It will use FLASK frameworks and get the request from the customer or client then It will Post into the prediction files and Answer will be deliver over the web browser.   </p>
+<p style= 'text-align: justify;'> Below picture illustrate the main.py, After evaluating the LSTM model, This files will create the Rest -API, To that It will use FLASK frameworks and get the request from the customer or client then It will Post into the prediction files and Answer will be deliver over the web browser.   </p>
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/140581040-86b02b9a-fb8c-4f10-9ebf-03e05573f7a6.png">
  
 </p> 
 
+<h3 align="left">7. Testing Rest-API</h3>
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/140582438-f649af76-ef70-4e79-ba2f-cd63267c7bf2.png">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/140582453-653c4aa4-2a6d-47a6-9595-97f9dc8939dd.png">
+ 
+</p> 
 
 
 
