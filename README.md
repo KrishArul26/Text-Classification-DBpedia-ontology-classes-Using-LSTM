@@ -55,11 +55,12 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
 
 <h3 align="left"> Project Directory</h3>
 
+
 <h3 align="left"> Below pictures illustrate the complete folder structure of this project.</h3>
 
 
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/74568334/140574190-0a6284e0-2b09-4139-9031-86cb82661487.png">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140574190-0a6284e0-2b09-4139-9031-86cb82661487.png">
 </p> 
 
 
