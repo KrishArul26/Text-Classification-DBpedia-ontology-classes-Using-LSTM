@@ -1,0 +1,2 @@
+# Text-Classification-axonomy-of-Wikipedia-article-classes-Using-LSTM
+Text classification is the task of assigning a set of predefined categories to free text. Text classifiers can be used to organize, structure, and categorize pretty much anything. For example, new articles can be organized by topics, support tickets can be organized by urgency, chat conversations can be organized by language, brand mentions can be organized by sentiment, and so on.
