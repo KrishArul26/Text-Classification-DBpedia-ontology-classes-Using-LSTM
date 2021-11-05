@@ -48,6 +48,54 @@
 For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/version/1)
 
 
+<h2 align="center"> Process - Flow of This project </h2>
+
+<p align="center">
+  <img width="1000" src="https://user-images.githubusercontent.com/74568334/140583675-fdc5484d-1886-4e2f-906e-2c1e8c187e29.png">
+</p> 
+
+<h2 align="center"> 🚀 Installation of Text-Classification-Using-LSTM</h2>
+
+1. Clone the repo
+
+```
+git clone https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM.git
+```
+2. Change your directory to the cloned repo
+
+```
+cd Text-Classification-DBpedia-ontology-classes-Using-LSTM
+
+```
+3. Create a Python 3.6 version of virtual environment name 'lstm' and activate it
+
+```
+pip install virtualenv
+
+virtualenv bert
+
+lstm\Scripts\activate
+
+```
+
+4. Now, run the following command in your Terminal/Command Prompt to install the libraries required!!!
+
+```
+pip install -r requirements.txt
+
+```
+
+<h2 align="center"> 💡 Working </h2>
+
+Type the following command:
+
+```
+python app.py
+
+```
+After that You will see the running IP adress just copy and paste into you browser and import or upload your speech then closk the predict button.
+
+
 <h2 align="center"> Implementations </h2>
 
 <h4 align="left"> In this section, contains the project directory, explanation of each python file presents in the directory.  </h2>
