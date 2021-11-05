@@ -89,7 +89,16 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
   <img width="400" src="https://user-images.githubusercontent.com/74568334/140579999-d0ae2ac4-74bc-460d-82eb-3ee7cbb40a73.png">
 </p> 
 
-<h3 align="left">5. main.py </h3>
+<h3 align="left">5. index.htmml </h3>
+
+<p style= 'text-align: justify;'Below picture illustrate the index.html file, these files use to create the web frame for us.  </p>
+
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140581823-b9f8a43a-e317-4e18-b895-0983d905cb60.png">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140581821-30aca256-6442-4b0e-8e29-9bef67f2d118.png">
+ 
+</p> 
+<h3 align="left">6. main.py </h3>
 
 <p style= 'text-align: justify; Below picture illustrate the main.py, After evaluating the LSTM model, This files will create the Rest -IP, To that It will use FLASK frameworks and get the request from the customer or client then It will Post into the prediction files and Answer will be deliver over the web browser. </p>
  
