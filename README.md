@@ -122,21 +122,3 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
