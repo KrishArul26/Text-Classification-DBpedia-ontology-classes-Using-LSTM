@@ -60,7 +60,7 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
 
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/140574190-0a6284e0-2b09-4139-9031-86cb82661487.png">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140574832-f6b9094d-1ce4-4651-8fe1-753d6785c29f.png">
 </p> 
 
 
