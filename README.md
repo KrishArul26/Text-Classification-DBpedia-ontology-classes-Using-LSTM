@@ -66,13 +66,19 @@ For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-data
 
 <h3 align="left">2. preprocess.py </h3>
 
-<p style= 'text-align: justify;'> Below picture illustrate the preprocess.py file,  does the necessary text cleaning process such as removing punctuation, numbers, lemmatization. And it will create train_preprocessed, validation_preprocessed and test_preprocessed pickle files for the further analysis.</p>
+<p style= 'text-align: justify;'> Below picture illustrate the preprocess.py file, It does the necessary text cleaning process such as removing punctuation, numbers, lemmatization. And it will create train_preprocessed, validation_preprocessed and test_preprocessed pickle files for the further analysis.</p>
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/140578710-2b346932-32c8-4f60-b9bf-b79fbb4fbf10.png">
 </p> 
 
+<h3 align="left">3. word_embedder_gensim.pyy </h3>
 
+<p style= 'text-align: justify;'> Below picture illustrate the word_embedder_gensim.py, After done with text pre-processing, this file will take those cleaned text as input and will be creating the Word2vec embedding for each word.</p>
+
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/140579065-79a7e215-1f8f-4715-816c-0247d007a520.png">
+</p> 
 
 
 
