@@ -45,7 +45,7 @@
 
 <p style= 'text-align: justify;'> The DBpedia ontology classification dataset is constructed by picking 14 non-overlapping classes from DBpedia 2014. They are listed in classes.txt. From each of thse 14 ontology classes, we randomly choose 40,000 training samples and 5,000 testing samples. Therefore, the total size of the training dataset is 560,000 and testing dataset 70,000. The files train.csv and test.csv contain all the training samples as comma-sparated values. There are 3 columns in them, corresponding to class index (1 to 14), title and content. The title and content are escaped using double quotes ("), and any internal double quote is escaped by 2 double quotes (""). There are no new lines in title or content. </p>
 
-For Dataset Please click [here](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/version/1)
+For Dataset Please click [here](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/tree/main/Data)
 
 
 <h2 align="center"> Process - Flow of This project </h2>
