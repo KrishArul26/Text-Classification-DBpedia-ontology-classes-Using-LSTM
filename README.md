@@ -112,7 +112,7 @@ After that You will see the running IP adress just copy and paste into you brows
 </p> 
 
 
-<h3 align="left">2. [preprocess.py](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/preprocess.py) </h3>
+2. [preprocess.py](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/preprocess.py)
 
 <p style= 'text-align: justify;'> Below picture illustrate the preprocess.py file, It does the necessary text cleaning process such as removing punctuation, numbers, lemmatization. And it will create train_preprocessed, validation_preprocessed and test_preprocessed pickle files for the further analysis.</p>
 
