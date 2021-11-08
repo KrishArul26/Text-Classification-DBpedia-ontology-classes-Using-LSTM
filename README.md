@@ -112,7 +112,7 @@ After that You will see the running IP adress just copy and paste into you brows
 </p> 
 
 
-<h3 align="left">2. preprocess.py </h3>
+<h3 align="left">2. [preprocess.py](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/preprocess.py) </h3>
 
 <p style= 'text-align: justify;'> Below picture illustrate the preprocess.py file, It does the necessary text cleaning process such as removing punctuation, numbers, lemmatization. And it will create train_preprocessed, validation_preprocessed and test_preprocessed pickle files for the further analysis.</p>
 
@@ -120,7 +120,7 @@ After that You will see the running IP adress just copy and paste into you brows
   <img width="400" src="https://user-images.githubusercontent.com/74568334/140578710-2b346932-32c8-4f60-b9bf-b79fbb4fbf10.png">
 </p> 
 
-<h3 align="left">3. word_embedder_gensim.py </h3>
+<h3 align="left">3. [word_embedder_gensim.py](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/word_embedder_gensim.py) </h3>
 
 <p style= 'text-align: justify;'> Below picture illustrate the word_embedder_gensim.py, After done with text pre-processing, this file will take those cleaned text as input and will be creating the Word2vec embedding for each word.</p>
 
