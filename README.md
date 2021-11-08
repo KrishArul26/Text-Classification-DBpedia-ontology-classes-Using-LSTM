@@ -120,7 +120,7 @@ After that You will see the running IP adress just copy and paste into you brows
   <img width="400" src="https://user-images.githubusercontent.com/74568334/140578710-2b346932-32c8-4f60-b9bf-b79fbb4fbf10.png">
 </p> 
 
-<h3 align="left">3. [word_embedder_gensim.py](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/word_embedder_gensim.py) </h3>
+3. [word_embedder_gensim.py](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/word_embedder_gensim.py)
 
 <p style= 'text-align: justify;'> Below picture illustrate the word_embedder_gensim.py, After done with text pre-processing, this file will take those cleaned text as input and will be creating the Word2vec embedding for each word.</p>
 
@@ -129,7 +129,7 @@ After that You will see the running IP adress just copy and paste into you brows
 </p> 
 
 
-<h3 align="left">4. rnn_w2v.py </h3>
+4. [rnn_w2v.py](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/rnn_w2v.py)
 
 <p style= 'text-align: justify;'>Below picture illustrate the rnn_w2v.py, After done with creating Word2vec for each word then those vectors will use as input for creating the LSTM model and Train the LSTM (RNN) model with body and Classes. </p>
 
@@ -137,7 +137,7 @@ After that You will see the running IP adress just copy and paste into you brows
   <img width="400" src="https://user-images.githubusercontent.com/74568334/140579999-d0ae2ac4-74bc-460d-82eb-3ee7cbb40a73.png">
 </p> 
 
-<h3 align="left">5. index.htmml </h3>
+5. [index.htmml](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/index.html)
 
 <p style= 'text-align: justify;'>Below picture illustrate the index.html file, these files use to create the web frame for us. </p>
 
@@ -148,7 +148,7 @@ After that You will see the running IP adress just copy and paste into you brows
 </p> 
 
 
-<h3 align="left">6. main.py </h3>
+6.[main.py](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM/blob/main/Code/main.py)
 <p style= 'text-align: justify;'> Below picture illustrate the main.py, After evaluating the LSTM model, This files will create the Rest -API, To that It will use FLASK frameworks and get the request from the customer or client then It will Post into the prediction files and Answer will be deliver over the web browser.   </p>
 
 <p align="center">
