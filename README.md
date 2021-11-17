@@ -1,7 +1,15 @@
-# 
-
 
 <h2 align="center">  Text-Classification-Using-LSTM</h2>
+
+### Table of Contents
+[Introduction](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM.git#Introduction)
+
+[Technologies Used](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM.git#Technologies-Used)
+
+[Dataset](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM.git#Dataset)
+
+[Process - Flow](https://github.com/KrishArul26/Text-Classification-DBpedia-ontology-classes-Using-LSTM.git#ProcessFlow)
+
 
 <h3 align="left"> Ontology  Classification-Using-LSTM </h3>
 
